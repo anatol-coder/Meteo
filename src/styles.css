@@ -50,7 +50,7 @@ main {
 
 .weather-app-temperature {
   font-size: 88px;
-  font-weight: bold;
+  font-weight: 900px;
   margin-left: 10px;
 }
 .weather-app-unit {
