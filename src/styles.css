@@ -40,8 +40,17 @@ main {
   font-size: 38px;
   line-height: 48px;
 }
+.weather-app-details {
+  font-size: 12px;
+  color: rgba(39, 33, 66, 0.4);
+  line-height: 24px;
+  font-weight: 400;
+  display: inline;
+}
 .weather-app-temperature-container {
   display: flex;
+  justify-content: right;
+  margin-top: 15px;
 }
 .weather-app-icon {
   width: 88px;
@@ -57,6 +66,7 @@ main {
 .weather-app-unit {
   margin-bottom: 50px;
   margin-top: 10px;
+  margin-right: 10px;
   font-size: 28px;
 }
 
